@@ -1,0 +1,342 @@
+title:PvP focused recommendations according to Drewsky and Gleaux
+description:These recommendations are tailored for PvP and curated by Drewsky and Gleaux. If you suspect a mistake has been made, or have feedback on the list...you can contact either of us on Twitter @DrewskysChannel or @Gleaux. We are both also available via Discord @ discord.gg/krewe.
+
+// Eyasluna Rangefinder + MT
+//notes:Eyasluna is seeing shockingly high usage rates in Trials of Osiris, edging out both Timelost Fatebringer and Adept Palindrome...and for good reason. It has the range to compete with top-end Palindromes, can compete with Fatebringer's Explosive Payload flinch with Hi-Caliber Rounds, and can climb to 100 AA with the help of a Handcannon Targeting mod. Hi-Cal rounds are optimal, but if you play on controller or struggle to handle the recoil on M+K...consider taking Ricochet Rounds for some added stability. Steadyhand and Fastdraw are best sights for the bonus handling and stability. Moving Target adds a flat +10 to your aim assist stat, and also increases your strafe speed which makes it harder for opponents to shoot back at you. (MW: Stab or Range) Drew's video on Eyasluna: https://www.youtube.com/watch?v=KNU3qK04nSM Gleaux's video on Eyasluna: https://www.youtube.com/watch?v=FoHffUOiMSA
+dimwishlist:item=235827225&perks=1926090095,1885400500,2846385770,588594999
+dimwishlist:item=235827225&perks=1926090095,1561002382,2846385770,588594999
+dimwishlist:item=235827225&perks=1926090094,1885400500,2846385770,588594999
+dimwishlist:item=235827225&perks=1926090094,1561002382,2846385770,588594999
+
+// Palindrome (Adept) Rangefinder
+//notes:The Adept Palindrome is probably the best 140 RPM handcannon in the energy slot, and is a stat behemoth with the potential to contest into 120 RPM Handcannon range. Hi-Caliber rounds are ideal for added flinch, but if Stability is an issue for you opt for Ricochet Rounds instead. Rangefinder is the engine that powers Palindrome's absurd range and you can pair Quickdraw with it for sniper blinting follow ups and to have your handcannon ready whenever you need it most. (MW: Stab or Range) Drew's video on Rangefinder Palindrome: https://www.youtube.com/watch?v=JH7Kc2aP47w Gleaux's video on Rangefinder Palindrome: https://www.youtube.com/watch?v=FoHffUOiMSA
+dimwishlist:item=1481892490&perks=1840239774,1561002382,706527188,2846385770
+dimwishlist:item=1481892490&perks=1840239774,1885400500,706527188,2846385770
+dimwishlist:item=1481892490&perks=1482024992,1561002382,706527188,2846385770
+dimwishlist:item=1481892490&perks=1482024992,1885400500,706527188,2846385770
+dimwishlist:item=1481892490&perks=1467527085,1885400500,706527188,2846385770
+dimwishlist:item=1481892490&perks=1467527085,1561002382,706527188,2846385770
+dimwishlist:item=1481892490&perks=3250034553,1885400500,706527188,2846385770
+dimwishlist:item=1481892490&perks=3250034553,1561002382,706527188,2846385770
+dimwishlist:item=1481892490&perks=1840239774,1561002382,4252909580,2846385770
+dimwishlist:item=1481892490&perks=1840239774,1885400500,4252909580,2846385770
+dimwishlist:item=1481892490&perks=1482024992,1561002382,4252909580,2846385770
+dimwishlist:item=1481892490&perks=1482024992,1885400500,4252909580,2846385770
+dimwishlist:item=1481892490&perks=1467527085,1885400500,4252909580,2846385770
+dimwishlist:item=1481892490&perks=1467527085,1561002382,4252909580,2846385770
+dimwishlist:item=1481892490&perks=3250034553,1885400500,4252909580,2846385770
+dimwishlist:item=1481892490&perks=3250034553,1561002382,4252909580,2846385770
+
+// Palindrome (Adept) HIR
+//notes:The Adept Palindrome is probably the best 140 RPM handcannon in the energy slot, and is a stat behemoth. This is the HIR variant which adds some forgiveness to your duels. Keep in mind High-Impact Reserves allows you to 2c1b in the bottom half of the magazine. Hi-Caliber rounds are ideal for added flinch, but if Stability is an issue for you opt for Ricochet Rounds instead. (MW: Stab or Range) Drew's video on HIR Palindrome: https://www.youtube.com/watch?v=iNU__d6K-5I&t=34s
+dimwishlist:item=1481892490&perks=1840239774,1561002382,4252909580,2213355989
+dimwishlist:item=1481892490&perks=1840239774,1885400500,4252909580,2213355989
+dimwishlist:item=1481892490&perks=1482024992,1561002382,4252909580,2213355989
+dimwishlist:item=1481892490&perks=1482024992,1885400500,4252909580,2213355989
+dimwishlist:item=1481892490&perks=1467527085,1885400500,4252909580,2213355989
+dimwishlist:item=1481892490&perks=1467527085,1561002382,4252909580,2213355989
+dimwishlist:item=1481892490&perks=3250034553,1885400500,4252909580,2213355989
+dimwishlist:item=1481892490&perks=3250034553,1561002382,4252909580,2213355989
+
+
+// Fatebringer (Timelost) EP + EotS/OS
+//notes:If Eyasluna is about consistency and Palindrome is about range...Fatebringer is about dealing flinch. They don't call this thing the Flinchbringer for nothing. Any roll worth using includes Explosive Payload (which thankfully comes guaranteed on a Timelost version) and one of the two accuracy boosting perks. Opening Shot and Eye of the Storm both serve similar purposes, but generally speaking Eye of the Storm is better for a shotgun-oriented playstyle since the bonus handling when weak will help you get to your shotgun faster. Opening Shot obviously pairs well with Sniper blinting and increasing the consistency of your gunfights. (MW: Stab or Range) Gleaux's video on Fatebringer: https://www.youtube.com/watch?v=_M5mI-z1hi8 Drew's video on Fatebringer: https://www.youtube.com/watch?v=mkp8MurLoGM
+dimwishlist:item=1216319404&perks=1840239774,3142289711,3038247973,47981717
+dimwishlist:item=1216319404&perks=1482024992,3142289711,3038247973,47981717
+dimwishlist:item=1216319404&perks=1467527085,3142289711,3038247973,47981717
+dimwishlist:item=1216319404&perks=1840239774,3142289711,3038247973,699525795
+dimwishlist:item=1216319404&perks=1482024992,3142289711,3038247973,699525795
+dimwishlist:item=1216319404&perks=1467527085,3142289711,3038247973,699525795
+
+// Igneous Hammer (Adept) QD / OS
+//notes:Igneous Hammer is undoubtedly the best energy 120 RPM handcannon heading into Witch Queen, and one quick look at the base stats will tell you why. The one place Igneous sort of lacks is in the handling department, and Quickdraw can mitigate that for you when swapping to Igneous. Opening Shot improves consistency in gunfights by boosting your aim assist, accuracy and range all in one perk. This Igneous variant is particulary good for pairing with swap based builds like bows or blinting with sniper rifles. (MW: Stab or Range)
+dimwishlist:item=2527666306&perks=1467527085,1885400500,706527188,47981717
+dimwishlist:item=2527666306&perks=3661387068,1885400500,706527188,47981717
+
+// Igneous Hammer (Adept) QD / Moving Target
+//notes:Igneous Hammer is undoubtedly the best energy 120 RPM handcannon heading into Witch Queen, and one quick look at the base stats will tell you why. The one place Igneous sort of lacks is in the handling department, and Quickdraw can mitigate that for you when swapping to Igneous. Opening Shot improves consistency in gunfights by giving you a +10 to aim assist and a boost to your strafe speed. This Igneous variant is particulary good for pairing with swap based builds like bows or blinting with sniper rifles. (MW: Stab or Range)
+dimwishlist:item=2527666306&perks=1467527085,1885400500,706527188,588594999
+dimwishlist:item=2527666306&perks=3661387068,1885400500,706527188,588594999
+
+// Igneous Hammer (Adept) Rapid Hit / Elemental Capacitor
+//notes:Igneous Hammer is undoubtedly the best energy 120 RPM handcannon heading into Witch Queen, and one quick look at the base stats will tell you why. The one place Igneous sort of lacks is in the handling department, and Elemental Capacitor can mitigate that for you when playing an arc subclass, or it can add some extra stabiliy to make Igneous handle like a well-rolled 140 RPM handcannon. There are virtually no downsides to this particular roll since Rapid Hit will add to your Stability and Reload speed mid-gunfight, while Elemental Capacitor is useful for bonus stats on any element other than Solar. (MW: Stab or Range)
+dimwishlist:item=2527666306&perks=1467527085,1885400500,247725512,3511092054
+dimwishlist:item=2527666306&perks=3661387068,1885400500,247725512,3511092054
+
+// True Prophecy Opening Shot/Rangefinder + Elemental Capacitor
+//notes:True Prophecy is currently the best in slot kinetic 120 RPM handcannon. It has access to Elemental Capacitor which can provide some much needed stability or handling. The choice between Opening Shot and Rangefinder is largely preferential, with each having an opportunity cost to picking it over the other. Opening Shot offers increased consistency, while Rangefinder turns True Prophecy into a scout rifle. Either variant is an excellent handcannon. (MW: Stab or Range)
+dimwishlist:item=2742838700&perks=1926090094,3142289711,47981717,3511092054
+dimwishlist:item=2742838700&perks=1926090095,3142289711,47981717,3511092054
+dimwishlist:item=2742838700&perks=1926090095,3142289711,2846385770,3511092054
+dimwishlist:item=2742838700&perks=1926090094,3177308360,2846385770,3511092054
+dimwishlist:item=2742838700&perks=1926090094,3142289711,2846385770,3511092054
+dimwishlist:item=2742838700&perks=1926090094,3177308360,2846385770,3511092054
+
+// Dire Promise OS + Rangefinder
+//notes:Dire Promise has been sort of power crept by Eyasluna, Palindrome, and Fatebringer, but it can still compete when you have access to a perfect roll. Opening Shot and Rangefinder combine to provide you with similar ranging capabilities as the big 3, but in order to punch with the same flinch as those with hi-cal you do have to trade off some stability. If you miss on the masterwork, don't bother with Dire Promise. (MW: Stab or Range)
+dimwishlist:item=2742838701&perks=1926090095,1885400500,47981717,2846385770
+dimwishlist:item=2742838701&perks=1926090095,1561002382,47981717,2846385770
+dimwishlist:item=2742838701&perks=1926090094,1885400500,47981717,2846385770
+dimwishlist:item=2742838701&perks=1926090094,1561002382,47981717,2846385770
+
+// Dire Promise Snapshot + Rangefinder
+//notes:Dire Promise has been sort of power crept by Eyasluna, Palindrome, and Fatebringer, but it can still compete when you have access to a perfect roll. Rangefinder can provide you with slightly less ranging capabilities as the big 3, but in order to punch with the same flinch as those with hi-cal you do have to trade off some stability. Snapshot is a nice to have perk that helps you get your shot off before your opponent in the thick of a firefight. If you aren't running a handling exotic like Ophidians or Dragon Shadow, it could be worth running Snapshot to mitigate lower handling and to gain the upper hand on the big 3 handcannons. If you miss on the masterwork, don't bother with Dire Promise. (MW: Stab or Range)
+dimwishlist:item=2742838701&perks=1926090094,1561002382,957782887,2846385770
+dimwishlist:item=2742838701&perks=1926090095,1885400500,957782887,2846385770
+dimwishlist:item=2742838701&perks=1926090095,1561002382,957782887,2846385770
+dimwishlist:item=2742838701&perks=1926090094,1885400500,957782887,2846385770
+
+// Dire Promise OS + Elemental Capacitor
+//notes:Dire Promise has been sort of power crept by Eyasluna, Palindrome, and Fatebringer, but it can still compete when you have access to a perfect roll. Opening Shot can provide you with slightly less ranging capabilities as the big 3, but in order to punch with the same flinch as those with hi-cal you do have to trade off some stability. Elemental Capacitor can help you mitigate stability if you opt-in to hi-caliber rounds or it can provide you with lightning fast handling on an arc subclass. If you miss on the masterwork, don't bother with Dire Promise. (MW: Stab or Range)
+dimwishlist:item=2742838701&perks=1926090095,1885400500,47981717,3511092054
+dimwishlist:item=2742838701&perks=1926090095,1561002382,47981717,3511092054
+dimwishlist:item=2742838701&perks=1926090094,1885400500,47981717,3511092054
+dimwishlist:item=2742838701&perks=1926090094,1561002382,47981717,3511092054
+
+// Shayura's Wrath (Adept) TV + KC
+//notes:Shayura's comes stock with a 17 zoom scope which allows it to fight in basically auto rifle ranges. 1 point of range on an SMG translates to farther damage dropoff than any other type of weapon, so selling out for range on an SMG is incredibly important. Getting Full Bore or Hammmer Forged + Accurized Rounds is mandatory for a good Shayura's roll. SMGs are a high accuracy weapon, which don't really need consistency boosting perks to be lethal from a neutral state, so opting for damage based perks like Kill Clip can help you win the next fight with a blazing fast time-to-kill. Tunnel Vision is a good compliment to Kill Clip because it allows you to paint headshots anywhere within (and sometimes outside of) your optimal range. For those few seconds after a kill, you are basically guaranteed to get a follow up kill provided you have a target in front of you. (MW: Range) Drew's video on Shayura's: https://www.youtube.com/watch?v=KOXUQXwE6SM
+dimwishlist:item=202670084&perks=202670084,3142289711,2946784966,1015611457
+dimwishlist:item=202670084&perks=3250034553,3142289711,2946784966,1015611457
+
+// Shayura's Wrath (Adept) KW + KC
+//notes:Shayura's comes stock with a 17 zoom scope which allows it to fight in basically auto rifle ranges. 1 point of range on an SMG translates to farther damage dropoff than any other type of weapon, so selling out for range on an SMG is incredibly important. Getting Full Bore or Hammmer Forged + Accurized Rounds is mandatory for a good Shayura's roll. SMGs are a high accuracy weapon, which don't really need consistency boosting perks to be lethal from a neutral state, so opting for damage based perks like Kill Clip can help you win the next fight with a blazing fast time-to-kill. Killing Wind is a good compliment to Kill Clip because the boosted range and damage falloff allows you to get even more out of Kill Clip, and in the situation where you don't have time to reload before the next fight, you get the benefit of Killing Wind at least. (MW: Range) Drew's video on Shayura's: https://www.youtube.com/watch?v=KOXUQXwE6SM
+dimwishlist:item=202670084&perks=202670084,3142289711,2450788523,1015611457
+dimwishlist:item=202670084&perks=3250034553,3142289711,2450788523,1015611457
+
+// Multimach IR
+//notes:Multimach is the undisputed king of kinetic SMGs. The Model 8 Scope is required to make use of Multimach as the added zoom is a big part of what makes the SMG viable in the current PvP meta. 1 point of range on an SMG translates to farther damage dropoff than any other type of weapon, so selling out for range on an SMG is incredibly important. This means we are required to pick up Accurized Rounds and Iron Reach as well to get the most out of the Multimach. Killing Wind and Dynamic Sway Reduction are great 3rd slot perks which allow you to choose between consistency in the first fight or follow up for the next. Choose according to your preference. (MW: Range) Drew's video on Multimach: https://www.youtube.com/watch?v=7mmqZK4dtLk
+dimwishlist:item=3717177717&perks=663495154,3142289711,2450788523,591790007
+dimwishlist:item=3717177717&perks=663495154,3142289711,1359896290,591790007
+
+// Multimach KC
+//notes:Multimach is the undisputed king of kinetic SMGs. The Model 8 Scope is required to make use of Multimach as the added zoom is a big part of what makes the SMG viable in the current PvP meta. 1 point of range on an SMG translates to farther damage dropoff than any other type of weapon, so selling out for range on an SMG is incredibly important. This means we are required to pick up Accurized Rounds to get the most out of the Multimach. Killing Wind and Kill Clip are an excellent perk combination for steam rolling lobbies after picking up the first kill. (MW: Range) Drew's video on Multimach: https://www.youtube.com/watch?v=7mmqZK4dtLk
+dimwishlist:item=3717177717&perks=663495154,3142289711,2450788523,1015611457
+
+// Messenger (Adept) Desperado 
+//notes:Desperado go brrrr. Need I say more? Arrowhead is transformative on Pulse Rifles as the vertical recoil tendency helps a ton with controlling the burst fire of the weapon. Third column perks aren't quite as impactful though there are some good choices. Ricochet Rounds are recommended for both the added range and the extra stability. (MW: Stab)
+dimwishlist:item=1173780905&perks=839105230,1885400500,588594999,3047969693
+dimwishlist:item=1173780905&perks=839105230,1885400500,1570042021,3047969693
+dimwishlist:item=1173780905&perks=839105230,1885400500,247725512,3047969693
+
+// Messenger (Adept) Elemental Capacitor 
+//notes:Arrowhead is transformative on Pulse Rifles as the vertical recoil tendency helps a ton with controlling the burst fire of the weapon. Third column perks aren't quite as impactful though there are some good choices. Ricochet Rounds are recommended for both the added range and the extra stability. Elemental Capacitor is an interesting alternative to Desperado on the Messenger as it can provide you with extra stability or handling depending on the subclass you play. For 3v3 game modes, Desperado doesn't come into play quite as often so opting for the added consistency of Elemental Capacitor can be a good thing. (MW: Stab)
+dimwishlist:item=1173780905&perks=839105230,1885400500,588594999,3511092054
+dimwishlist:item=1173780905&perks=839105230,1885400500,1570042021,3511092054
+dimwishlist:item=1173780905&perks=839105230,1885400500,247725512,3511092054
+
+// Darkest Before
+//notes:Darkest Before has been one of the most lethal pulse rifles in the game since it was first acquired from Trials of the Nine. 540 pulses are competitive in the meta, and Darkest Before brings a great perk set to the table. Arrowhead is transformative on Pulse Rifles as the vertical recoil tendency helps a ton with controlling the burst fire of the weapon. Elemental Capacitor can provide some substantial stat bonuses depending on the subclass you play. (MW: Stab)
+dimwishlist:item=2481758391&perks=839105230,1885400500,3436462433,3511092054
+dimwishlist:item=2481758391&perks=839105230,1561002382,3436462433,3511092054
+dimwishlist:item=2481758391&perks=839105230,1885400500,706527188,3511092054
+dimwishlist:item=2481758391&perks=839105230,1561002382,706527188,3511092054
+dimwishlist:item=2481758391&perks=839105230,1885400500,3161816588,3511092054
+dimwishlist:item=2481758391&perks=839105230,1561002382,3161816588,3511092054
+
+// BxR
+//notes: Drew's god roll: Arrowhead - Ricochet - Snapshot - B eX R - Stability MW. For a detailed breakdown of the BxR, check out Drew's video on it: https://youtu.be/TYAPbw_nl70 (MW: Stab)
+dimwishlist:item=2708806099&perks=839105230,1885400500,957782887,454085387
+dimwishlist:item=2708806099&perks=839105230,1885400500,1428297954,454085387
+dimwishlist:item=2708806099&perks=839105230,1885400500,1428297954,699525795
+dimwishlist:item=2708806099&perks=839105230,1885400500,957782887,699525795
+
+// Scathelocke
+//notes:Scathelocke is one of the few 600 RPM auto rifles that comes with a 20 zoom scope. This allows Scathelocke to compete at some absurd ranges for the archetype. A barrel that improves recoil direction like Arrowhead Brake or Chambered Compensator goes a long way toward gaining consistency in gunfights in an archetype where being on target is required to compete in the current meta. The added zoom allows you to choose between Steady Rounds or Accurized Rounds in the second column depending on whether or not you need help controlling the weapon. For 3rd and 4th column perk options, consistency is king. Auto Rifles have accuracy issues at a distance so building into accuracy with Heating Up, Under Pressure or Eye of the Storm will go a long way. (MW: Stab)
+dimwishlist:item=602618796&perks=839105230,3142289711,1570042021,699525795
+dimwishlist:item=602618796&perks=839105230,3177308360,1570042021,699525795
+dimwishlist:item=602618796&perks=3661387068,3142289711,1570042021,699525795
+dimwishlist:item=602618796&perks=3661387068,3177308360,1570042021,699525795
+dimwishlist:item=602618796&perks=839105230,3142289711,1645158859,699525795
+dimwishlist:item=602618796&perks=839105230,3177308360,1645158859,699525795
+dimwishlist:item=602618796&perks=3661387068,3142289711,1645158859,699525795
+dimwishlist:item=602618796&perks=3661387068,3177308360,1645158859,699525795
+
+// Summoner (Adept)
+//notes:The Summoner is the staple 600 RPM auto rifle for the energy slot. It packs a hefty stat package with access to some great perks like Rangefinder, Moving Target and Elemental Capacitor. (MW: Stab) Drew's video on Summoner: https://www.youtube.com/watch?v=vVUauAiQQXo
+dimwishlist:item=1467527085&perks=839105230,1885400500,588594999,2846385770
+dimwishlist:item=1467527085&perks=839105230,1561002382,588594999,2846385770
+dimwishlist:item=1467527085&perks=839105230,1885400500,1359896290,2846385770
+dimwishlist:item=1467527085&perks=839105230,1561002382,1359896290,2846385770
+dimwishlist:item=1467527085&perks=839105230,1885400500,588594999,3511092054
+dimwishlist:item=1467527085&perks=839105230,1561002382,588594999,3511092054
+dimwishlist:item=1467527085&perks=839105230,1885400500,1359896290,3511092054
+dimwishlist:item=1467527085&perks=839105230,1561002382,1359896290,3511092054
+
+// Biting Winds
+//notes:Biting Winds is the only bow that OHKO by having access to Swashbuckler. CammyCakes is a big fan of this one in particular, and pairing it with a subclass that has access to lethal melees like bottom tree Gunslinger for example can lead to some shenanigans. (MW: Draw Time)
+dimwishlist:item=1621657423&perks=2801223209,3429800428,588594999,4082225868
+dimwishlist:item=1621657423&perks=2801223209,3429800428,706527188,4082225868
+
+// Found Verdict (Timelost)
+//notes:With the upcoming nerf to Felwinters in Witch Queen, Found Verdict will ascend upon its rightful throne as king of the aggressive shotguns. Opening Shot is mandatory, but you have some choices between extra handling from Barrel Shroud vs the consistency of Full Choke. (MW: Handling) Drew's video on Found Verdict: https://www.youtube.com/watch?v=gt4ctBkXOTw Gleaux's video on Found Verdict: https://www.youtube.com/watch?v=nZ_SLRMRSiY
+dimwishlist:item=631439337&perks=1047830412,3142289711,3161816588,47981717
+dimwishlist:item=631439337&perks=1047830412,791862061,3161816588,47981717
+dimwishlist:item=631439337&perks=1047830412,3142289711,3436462433,47981717
+dimwishlist:item=631439337&perks=1047830412,791862061,3436462433,47981717
+dimwishlist:item=631439337&perks=1300023272,3142289711,3161816588,47981717
+dimwishlist:item=631439337&perks=1300023272,791862061,3161816588,47981717
+dimwishlist:item=631439337&perks=1300023272,3142289711,3436462433,47981717
+dimwishlist:item=631439337&perks=1300023272,791862061,3436462433,47981717
+
+// Astral Horizon (Adept)
+//notes: If you're reading this inside DIM, then you are one of the chosen few. The Threat Detector Astral Horizon is no longer obtainable, but it arguably one of the best shotguns in the current meta. Never delete this. (MW: Range or Handling)
+dimwishlist:item=532746994&perks=1047830412,3142289711,4071163871,47981717
+dimwishlist:item=532746994&perks=1047830412,791862061,4071163871,47981717
+dimwishlist:item=532746994&perks=1300023272,3142289711,4071163871,47981717
+dimwishlist:item=532746994&perks=1300023272,791862061,4071163871,47981717
+dimwishlist:item=532746994&perks=1047830412,3142289711,4071163871,3511092054
+dimwishlist:item=532746994&perks=1047830412,791862061,4071163871,3511092054
+dimwishlist:item=532746994&perks=1300023272,3142289711,4071163871,3511092054
+dimwishlist:item=532746994&perks=1300023272,791862061,4071163871,3511092054
+
+// Astral Horizon (Adept)
+//notes:While not quite as stellar as it's Threat Detector cousin, Astral is still a solid shotgun with access to Opening Shot. (MW: Range or Handling)
+dimwishlist:item=532746994&perks=1047830412,3142289711,3436462433,47981717
+dimwishlist:item=532746994&perks=1047830412,791862061,3436462433,47981717
+dimwishlist:item=532746994&perks=1300023272,3142289711,3436462433,47981717
+dimwishlist:item=532746994&perks=1300023272,791862061,3436462433,47981717
+
+// Sudden Death
+//notes:The "arc shotty" as it is so fondly known by many survivors of Prophecy hell is one of the best options for guardians who main an arc subclass. Access to Threat Detector and Elemental Capacitor makes Sudden Death FASTER on the draw than pre-nerf Quickdraw due to the animation scalar from Threat Detector.  (MW: Range or Handling)
+dimwishlist:item=2855157553&perks=1047830412,3142289711,4071163871,3511092054
+dimwishlist:item=2855157553&perks=1047830412,791862061,4071163871,3511092054
+dimwishlist:item=2855157553&perks=1300023272,3142289711,4071163871,3511092054
+dimwishlist:item=2855157553&perks=1300023272,791862061,4071163871,3511092054
+
+// SS CQC
+//notes: (MW: Range)
+dimwishlist:item=1821724780&perks=1047830412,3142289711,3161816588,957782887
+dimwishlist:item=1821724780&perks=1047830412,3142289711,706527188,957782887
+dimwishlist:item=1821724780&perks=1047830412,791862061,3161816588,957782887
+dimwishlist:item=1821724780&perks=1047830412,791862061,706527188,957782887
+dimwishlist:item=1821724780&perks=1300023272,3142289711,3161816588,957782887
+dimwishlist:item=1821724780&perks=1300023272,3142289711,706527188,957782887
+dimwishlist:item=1821724780&perks=1300023272,791862061,3161816588,957782887
+dimwishlist:item=1821724780&perks=1300023272,791862061,706527188,957782887
+
+// Matador
+//notes: (MW: Range or Handling)
+dimwishlist:item=2563012876&perks=1047830412,3142289711,4071163871,47981717
+dimwishlist:item=2563012876&perks=1047830412,791862061,4071163871,47981717
+dimwishlist:item=2563012876&perks=1300023272,3142289711,4071163871,47981717
+dimwishlist:item=2563012876&perks=1300023272,791862061,4071163871,47981717
+
+// Riiswalker
+//notes: (MW: Range or Handling)
+dimwishlist:item=108221785&perks=1047830412,3142289711,1866048759,591790007
+dimwishlist:item=108221785&perks=1047830412,3142289711,699525795,591790007
+dimwishlist:item=108221785&perks=1047830412,791862061,1866048759,591790007
+dimwishlist:item=108221785&perks=1047830412,791862061,699525795,591790007
+dimwishlist:item=108221785&perks=1300023272,3142289711,1866048759,591790007
+dimwishlist:item=108221785&perks=1300023272,3142289711,699525795,591790007
+dimwishlist:item=108221785&perks=1300023272,791862061,1866048759,591790007
+dimwishlist:item=108221785&perks=1300023272,791862061,699525795,591790007
+
+// Fractethyst
+//notes: (MW: Range or Handling)
+dimwishlist:item=3184681056&perks=1047830412,3142289711,706527188,47981717
+dimwishlist:item=3184681056&perks=1047830412,3142289711,3161816588,47981717
+dimwishlist:item=3184681056&perks=1047830412,791862061,706527188,47981717
+dimwishlist:item=3184681056&perks=1047830412,791862061,3161816588,47981717
+dimwishlist:item=3184681056&perks=1300023272,3142289711,706527188,47981717
+dimwishlist:item=3184681056&perks=1300023272,3142289711,3161816588,47981717
+dimwishlist:item=3184681056&perks=1300023272,791862061,706527188,47981717
+dimwishlist:item=3184681056&perks=1300023272,791862061,3161816588,47981717
+
+// Wastelander
+//notes: (MW: Range or Handling)
+dimwishlist:item=1679868061&perks=1047830412,3142289711,3161816588,47981717
+dimwishlist:item=1679868061&perks=1047830412,791862061,3161816588,47981717
+dimwishlist:item=1679868061&perks=1300023272,3142289711,3161816588,47981717
+dimwishlist:item=1679868061&perks=1300023272,791862061,3161816588,47981717
+
+// Blasphemer
+//notes: (MW: Range or Handling)
+dimwishlist:item=2782847179&perks=1840239774,3142289711,706527188,47981717
+dimwishlist:item=2782847179&perks=1840239774,3142289711,4071163871,47981717
+dimwishlist:item=2782847179&perks=3250034553,3142289711,706527188,47981717
+dimwishlist:item=2782847179&perks=3250034553,3142289711,4071163871,47981717
+dimwishlist:item=2782847179&perks=1840239774,791862061,706527188,47981717
+dimwishlist:item=2782847179&perks=1840239774,791862061,4071163871,47981717
+dimwishlist:item=2782847179&perks=3250034553,791862061,706527188,47981717
+dimwishlist:item=2782847179&perks=3250034553,791862061,4071163871,47981717
+
+// Sojourner's Tale
+//notes: (MW: Range or Handling)
+dimwishlist:item=599895591&perks=1840239774,3142289711,4071163871,47981717
+dimwishlist:item=599895591&perks=1840239774,3142289711,706527188,47981717
+dimwishlist:item=599895591&perks=1840239774,3142289711,588594999,47981717
+dimwishlist:item=599895591&perks=1840239774,791862061,4071163871,47981717
+dimwishlist:item=599895591&perks=1840239774,791862061,706527188,47981717
+dimwishlist:item=599895591&perks=1840239774,791862061,588594999,47981717
+
+// Eye of Sol (Adept)
+//notes: (MW: Range or Handling)
+dimwishlist:item=3637570176&perks=1840239774,3142289711,957782887,47981717
+dimwishlist:item=3637570176&perks=1840239774,3142289711,957782887,1546637391
+dimwishlist:item=3637570176&perks=3250034553,3142289711,957782887,47981717
+dimwishlist:item=3637570176&perks=3250034553,3142289711,957782887,1546637391
+dimwishlist:item=3637570176&perks=1840239774,3142289711,2866798147,957782887
+dimwishlist:item=3637570176&perks=3250034553,3142289711,2866798147,957782887
+dimwishlist:item=3637570176&perks=1840239774,3142289711,588594999,957782887
+dimwishlist:item=3637570176&perks=3250034553,3142289711,588594999,957782887
+dimwishlist:item=3637570176&perks=1840239774,3142289711,3436462433,957782887
+dimwishlist:item=3637570176&perks=3250034553,3142289711,3436462433,957782887
+
+// 1000 Yard Stare
+//notes: (MW: Range or Handling)
+dimwishlist:item=4164201232&perks=1840239774,3142289711,706527188,957782887
+dimwishlist:item=4164201232&perks=1840239774,3142289711,1570042021,957782887
+dimwishlist:item=4164201232&perks=1840239774,3142289711,280464955,957782887
+dimwishlist:item=4164201232&perks=3250034553,3142289711,706527188,957782887
+dimwishlist:item=4164201232&perks=3250034553,3142289711,1570042021,957782887
+
+// Uzume RR4 (Adept)
+//notes: (MW: Range or Handling)
+dimwishlist:item=852228780&perks=1840239774,3142289711,957782887,1546637391
+dimwishlist:item=852228780&perks=3250034553,3142289711,957782887,1546637391
+
+// Frozen Orbit
+//notes: (MW: Range or Handling)
+dimwishlist:item=3473290087&perks=1840239774,3142289711,2866798147,957782887
+dimwishlist:item=3473290087&perks=1840239774,3142289711,588594999,957782887
+dimwishlist:item=3473290087&perks=3250034553,3142289711,2866798147,957782887
+dimwishlist:item=3473290087&perks=3250034553,3142289711,588594999,957782887
+
+// Bite of the Fox
+//notes: (MW: Range or Handling)
+dimwishlist:item=3169616514&perks=1840239774,3142289711,957782887,47981717
+dimwishlist:item=3169616514&perks=1840239774,3142289711,957782887,588594999
+dimwishlist:item=3169616514&perks=3250034553,3142289711,957782887,47981717
+dimwishlist:item=3169616514&perks=3250034553,3142289711,957782887,588594999
+
+// Succession 
+//notes: (MW: Range or Handling)
+dimwishlist:item=2990047042&perks=1840239774,3142289711,2866798147,957782887
+dimwishlist:item=2990047042&perks=1840239774,3142289711,588594999,957782887
+dimwishlist:item=2990047042&perks=3250034553,3142289711,2866798147,957782887
+dimwishlist:item=2990047042&perks=3250034553,3142289711,588594999,957782887
+
+// Main Ingredient
+//notes: (MW: Stability)
+dimwishlist:item=253196586
+
+// Timelines' Vertex
+//notes: (MW: Stability)
+dimwishlist:item=3055192515
+
+// Cartesian Coordinate
+//notes: (MW: Stability)
+dimwishlist:item=2481881293
+
+// Memory Interdict
+//notes: (MW: Blast Radius)
+dimwishlist:item=3165547384&perks=981914802,409831596,951095735,2396489472
+
+// Tommorrow's Answer (Adept)
+//notes: (MW: Blast Radius)
+dimwishlist:item=1366917989&perks=981914802,1996142143,951095735,2396489472
+
+
+
+

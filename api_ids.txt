@@ -1,0 +1,73 @@
+Barrels
+Fluted Barrel 1840239774
+Smallbore 1482024992
+Extended Barrel 1467527085
+Arrowhead 839105230
+Compensator 3661387068
+Full Bore 202670084
+Hammer Forged 3250034553
+Barrel Shroud 1300023272
+Full Choke 1047830412
+Hard Launch 981914802
+
+Sights
+Fastdraw 1926090094
+Steadyhand 1926090095
+Model 8 663495154
+
+Battery
+Particle Repeater 3868766766
+
+Magazines
+Accurized 3142289711
+Ricochet Rounds 1885400500
+Hi-Cal 1561002382
+Alloy 1431678320
+Steady Rounds 3177308360
+Assault Mag 791862061
+Prox Nades 409831596
+Black Powder 1996142143
+
+Bowstrings
+Elastic String 2801223209
+
+Arrow
+Fiberglass 3429800428
+
+Grips
+Heavy Grip 1012699414
+Combat Grip 3438534621
+
+Perks
+Rangefinder 2846385770
+Moving Target 588594999
+Snapshot 957782887
+HIR 2213355989
+Bottomless Grief 4252909580
+Quickdraw 706527188
+Explosive Payload 3038247973
+Opening Shot 47981717
+Frenzy 4104185692
+Eye of the Storm 699525795
+Elemental Capacitor 3511092054
+Rapid Hit 247725512
+Kill Clip 1015611457
+Killing Wind 2450788523
+Tunnel Vision 2946784966
+DSR 1359896290
+Iron Reach 591790007
+Heating Up 1570042021
+Desperado 3047969693
+Surplus 3436462433
+Under Pressure 1645158859
+Swashbuckler 4082225868
+Slideshot 3161816588
+Threat Detector 4071163871
+Hipfire Grip 1866048759
+Vorpal Weapon 1546637391
+No Distractions 2866798147
+Tap the Trigger 1890422124
+Impulse Amplifier 951095735
+Chain Reaction 2396489472
+BxR 454085387
+Perpetual
