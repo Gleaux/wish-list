@@ -18,6 +18,8 @@ dimwishlist:item=1481892490&perks=1467527085,1885400500,706527188,2846385770
 dimwishlist:item=1481892490&perks=1467527085,1561002382,706527188,2846385770
 dimwishlist:item=1481892490&perks=3250034553,1885400500,706527188,2846385770
 dimwishlist:item=1481892490&perks=3250034553,1561002382,706527188,2846385770
+dimwishlist:item=1481892490&perks=4090651448,1885400500,706527188,2846385770
+dimwishlist:item=1481892490&perks=4090651448,1561002382,706527188,2846385770
 dimwishlist:item=1481892490&perks=1840239774,1561002382,4252909580,2846385770
 dimwishlist:item=1481892490&perks=1840239774,1885400500,4252909580,2846385770
 dimwishlist:item=1481892490&perks=1482024992,1561002382,4252909580,2846385770
@@ -26,6 +28,8 @@ dimwishlist:item=1481892490&perks=1467527085,1885400500,4252909580,2846385770
 dimwishlist:item=1481892490&perks=1467527085,1561002382,4252909580,2846385770
 dimwishlist:item=1481892490&perks=3250034553,1885400500,4252909580,2846385770
 dimwishlist:item=1481892490&perks=3250034553,1561002382,4252909580,2846385770
+dimwishlist:item=1481892490&perks=4090651448,1885400500,4252909580,2846385770
+dimwishlist:item=1481892490&perks=4090651448,1561002382,4252909580,2846385770
 
 // Palindrome (Adept) HIR
 //notes:The Adept Palindrome is probably the best 140 RPM handcannon in the energy slot, and is a stat behemoth. This is the HIR variant which adds some forgiveness to your duels. Keep in mind High-Impact Reserves allows you to 2c1b in the bottom half of the magazine. Hi-Caliber rounds are ideal for added flinch, but if Stability is an issue for you opt for Ricochet Rounds instead. (MW: Stab or Range) Drew's video on HIR Palindrome: https://www.youtube.com/watch?v=iNU__d6K-5I&t=34s
@@ -37,31 +41,40 @@ dimwishlist:item=1481892490&perks=1467527085,1885400500,4252909580,2213355989
 dimwishlist:item=1481892490&perks=1467527085,1561002382,4252909580,2213355989
 dimwishlist:item=1481892490&perks=3250034553,1885400500,4252909580,2213355989
 dimwishlist:item=1481892490&perks=3250034553,1561002382,4252909580,2213355989
-
+dimwishlist:item=1481892490&perks=4090651448,1885400500,4252909580,2213355989
+dimwishlist:item=1481892490&perks=4090651448,1561002382,4252909580,2213355989
 
 // Fatebringer (Timelost) EP + EotS/OS
 //notes:If Eyasluna is about consistency and Palindrome is about range...Fatebringer is about dealing flinch. They don't call this thing the Flinchbringer for nothing. Any roll worth using includes Explosive Payload (which thankfully comes guaranteed on a Timelost version) and one of the two accuracy boosting perks. Opening Shot and Eye of the Storm both serve similar purposes, but generally speaking Eye of the Storm is better for a shotgun-oriented playstyle since the bonus handling when weak will help you get to your shotgun faster. Opening Shot obviously pairs well with Sniper blinting and increasing the consistency of your gunfights. (MW: Stab or Range) Gleaux's video on Fatebringer: https://www.youtube.com/watch?v=_M5mI-z1hi8 Drew's video on Fatebringer: https://www.youtube.com/watch?v=mkp8MurLoGM
 dimwishlist:item=1216319404&perks=1840239774,3142289711,3038247973,47981717
 dimwishlist:item=1216319404&perks=1482024992,3142289711,3038247973,47981717
 dimwishlist:item=1216319404&perks=1467527085,3142289711,3038247973,47981717
+dimwishlist:item=1216319404&perks=4090651448,3142289711,3038247973,47981717
 dimwishlist:item=1216319404&perks=1840239774,3142289711,3038247973,699525795
 dimwishlist:item=1216319404&perks=1482024992,3142289711,3038247973,699525795
 dimwishlist:item=1216319404&perks=1467527085,3142289711,3038247973,699525795
+dimwishlist:item=1216319404&perks=4090651448,3142289711,3038247973,699525795
 
 // Igneous Hammer (Adept) QD / OS
 //notes:Igneous Hammer is undoubtedly the best energy 120 RPM handcannon heading into Witch Queen, and one quick look at the base stats will tell you why. The one place Igneous sort of lacks is in the handling department, and Quickdraw can mitigate that for you when swapping to Igneous. Opening Shot improves consistency in gunfights by boosting your aim assist, accuracy and range all in one perk. This Igneous variant is particulary good for pairing with swap based builds like bows or blinting with sniper rifles. (MW: Stab or Range)
 dimwishlist:item=2527666306&perks=1467527085,1885400500,706527188,47981717
 dimwishlist:item=2527666306&perks=3661387068,1885400500,706527188,47981717
+dimwishlist:item=2527666306&perks=1840239774,1885400500,706527188,47981717
+dimwishlist:item=2527666306&perks=4090651448,1885400500,706527188,47981717
 
 // Igneous Hammer (Adept) QD / Moving Target
 //notes:Igneous Hammer is undoubtedly the best energy 120 RPM handcannon heading into Witch Queen, and one quick look at the base stats will tell you why. The one place Igneous sort of lacks is in the handling department, and Quickdraw can mitigate that for you when swapping to Igneous. Opening Shot improves consistency in gunfights by giving you a +10 to aim assist and a boost to your strafe speed. This Igneous variant is particulary good for pairing with swap based builds like bows or blinting with sniper rifles. (MW: Stab or Range)
 dimwishlist:item=2527666306&perks=1467527085,1885400500,706527188,588594999
 dimwishlist:item=2527666306&perks=3661387068,1885400500,706527188,588594999
+dimwishlist:item=2527666306&perks=1840239774,1885400500,706527188,588594999
+dimwishlist:item=2527666306&perks=4090651448,1885400500,706527188,588594999
 
 // Igneous Hammer (Adept) Rapid Hit / Elemental Capacitor
 //notes:Igneous Hammer is undoubtedly the best energy 120 RPM handcannon heading into Witch Queen, and one quick look at the base stats will tell you why. The one place Igneous sort of lacks is in the handling department, and Elemental Capacitor can mitigate that for you when playing an arc subclass, or it can add some extra stabiliy to make Igneous handle like a well-rolled 140 RPM handcannon. There are virtually no downsides to this particular roll since Rapid Hit will add to your Stability and Reload speed mid-gunfight, while Elemental Capacitor is useful for bonus stats on any element other than Solar. (MW: Stab or Range)
 dimwishlist:item=2527666306&perks=1467527085,1885400500,247725512,3511092054
 dimwishlist:item=2527666306&perks=3661387068,1885400500,247725512,3511092054
+dimwishlist:item=2527666306&perks=1840239774,1885400500,247725512,3511092054
+dimwishlist:item=2527666306&perks=4090651448,1885400500,247725512,3511092054
 
 // True Prophecy Opening Shot/Rangefinder + Elemental Capacitor
 //notes:True Prophecy is currently the best in slot kinetic 120 RPM handcannon. It has access to Elemental Capacitor which can provide some much needed stability or handling. The choice between Opening Shot and Rangefinder is largely preferential, with each having an opportunity cost to picking it over the other. Opening Shot offers increased consistency, while Rangefinder turns True Prophecy into a scout rifle. Either variant is an excellent handcannon. (MW: Stab or Range)
