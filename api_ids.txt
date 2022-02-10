@@ -18,6 +18,9 @@ Steadyhand 1926090095
 Model 8 663495154
 Impulse MS3 194952922
 Red Dot Micro 2405638014
+Crossfire 1926090090
+Sureshot 1926090091
+Truesight 1926090092
 
 Battery
 Particle Repeater 3868766766
@@ -79,3 +82,4 @@ Firmly 280464955
 Demo 3523296417
 Rampage 3425386926
 Celerity 1264398905
+Headstone 124408337

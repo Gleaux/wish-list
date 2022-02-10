@@ -7,6 +7,12 @@ dimwishlist:item=235827225&perks=1926090095,1885400500,2846385770,588594999
 dimwishlist:item=235827225&perks=1926090095,1561002382,2846385770,588594999
 dimwishlist:item=235827225&perks=1926090094,1885400500,2846385770,588594999
 dimwishlist:item=235827225&perks=1926090094,1561002382,2846385770,588594999
+dimwishlist:item=235827225&perks=1926090090,1885400500,2846385770,588594999
+dimwishlist:item=235827225&perks=1926090090,1561002382,2846385770,588594999
+dimwishlist:item=235827225&perks=1926090091,1885400500,2846385770,588594999
+dimwishlist:item=235827225&perks=1926090091,1561002382,2846385770,588594999
+dimwishlist:item=235827225&perks=1926090092,1885400500,2846385770,588594999
+dimwishlist:item=235827225&perks=1926090092,1561002382,2846385770,588594999
 
 // Palindrome (Adept) Rangefinder
 //notes:The Adept Palindrome is probably the best 140 RPM handcannon in the energy slot, and is a stat behemoth with the potential to contest into 120 RPM Handcannon range. Hi-Caliber rounds are ideal for added flinch, but if Stability is an issue for you opt for Ricochet Rounds instead. Rangefinder is the engine that powers Palindrome's absurd range and you can pair Quickdraw with it for sniper blinting follow ups and to have your handcannon ready whenever you need it most. (MW: Stab or Range) Drew's video on Rangefinder Palindrome: https://www.youtube.com/watch?v=JH7Kc2aP47w Gleaux's video on Rangefinder Palindrome: https://www.youtube.com/watch?v=FoHffUOiMSA
@@ -115,6 +121,13 @@ dimwishlist:item=202670084&perks=3250034553,3142289711,2946784966,1015611457
 //notes:Shayura's comes stock with a 17 zoom scope which allows it to fight in basically auto rifle ranges. 1 point of range on an SMG translates to farther damage dropoff than any other type of weapon, so selling out for range on an SMG is incredibly important. Getting Full Bore or Hammmer Forged + Accurized Rounds is mandatory for a good Shayura's roll. SMGs are a high accuracy weapon, which don't really need consistency boosting perks to be lethal from a neutral state, so opting for damage based perks like Kill Clip can help you win the next fight with a blazing fast time-to-kill. Killing Wind is a good compliment to Kill Clip because the boosted range and damage falloff allows you to get even more out of Kill Clip, and in the situation where you don't have time to reload before the next fight, you get the benefit of Killing Wind at least. (MW: Range) Drew's video on Shayura's: https://www.youtube.com/watch?v=KOXUQXwE6SM
 dimwishlist:item=202670084&perks=202670084,3142289711,2450788523,1015611457
 dimwishlist:item=202670084&perks=3250034553,3142289711,2450788523,1015611457
+
+// Peacebond
+//notes: (MW: Range)
+dimwishlist:item=829330711&perks=1482024992,3142289711,2846385770,591790007
+dimwishlist:item=829330711&perks=1482024992,3142289711,2846385770,124408337
+dimwishlist:item=829330711&perks=1467527085,3142289711,2846385770,591790007
+dimwishlist:item=829330711&perks=1482024992,3142289711,2846385770,124408337
 
 // Multimach IR
 //notes:Multimach is the undisputed king of kinetic SMGs. The Model 8 Scope is required to make use of Multimach as the added zoom is a big part of what makes the SMG viable in the current PvP meta. 1 point of range on an SMG translates to farther damage dropoff than any other type of weapon, so selling out for range on an SMG is incredibly important. This means we are required to pick up Accurized Rounds and Iron Reach as well to get the most out of the Multimach. Killing Wind and Dynamic Sway Reduction are great 3rd slot perks which allow you to choose between consistency in the first fight or follow up for the next. Choose according to your preference. (MW: Range) Drew's video on Multimach: https://www.youtube.com/watch?v=7mmqZK4dtLk
