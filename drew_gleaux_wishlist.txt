@@ -387,6 +387,7 @@ dimwishlist:item=2209003210&perks=1467527085,689005463,1645158859,3425386926
 // Memory Interdict
 //notes: (MW: Blast Radius)
 dimwishlist:item=3165547384&perks=981914802,409831596,951095735,2396489472
+dimwishlist:item=3165547384&perks=3525010810,409831596,951095735,2396489472
 
 // Tommorrow's Answer (Adept)
 //notes: (MW: Blast Radius)

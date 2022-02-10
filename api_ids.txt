@@ -1,5 +1,6 @@
 Barrels
 Fluted Barrel 1840239774
+Corkscrew 4090651448
 Smallbore 1482024992
 Extended Barrel 1467527085
 Arrowhead 839105230
@@ -9,6 +10,7 @@ Hammer Forged 3250034553
 Barrel Shroud 1300023272
 Full Choke 1047830412
 Hard Launch 981914802
+Quick Launch 3525010810
 
 Sights
 Fastdraw 1926090094
